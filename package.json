@@ -51,4 +51,8 @@
 		"@rbxts/react": "^17.2.3",
 		"@rbxts/services": "^1.5.4"
 	}
+
+	"scripts": {
+  		"prepare": "rbxtsc"
+	}
 }
